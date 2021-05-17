@@ -1,4 +1,9 @@
-""" This is the first part of the week 6 learning journal """
+
+""" 
+-------------------------------------------------------+
+This is the first part of the week 6 learning journal |
+-------------------------------------------------------+
+"""
 
 # Today we will try out some things with lists.
 # let us first create a long string though:
